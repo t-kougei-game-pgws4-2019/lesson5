@@ -2,7 +2,7 @@
 
 ![結果画像1](1_perlin/result.png)
 ![結果画像2](2_desolve/result.png)
-![結果画像3](3_curl_noise/result.png)
+![結果画像3](3_curl/result.png)
 
 授業で作成したプロジェクトファイルをforkしたプロジェクトに上げてください。
 
